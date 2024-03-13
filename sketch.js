@@ -3,10 +3,12 @@ let y = 0
 
 function setup() {
   createCanvas(1000, 800);
-    background(230);
+
 }
 
 function draw() {
+      background(230);
+  
   fill(0,10,120,10);
   stroke(0);
     square(10,10,700);
